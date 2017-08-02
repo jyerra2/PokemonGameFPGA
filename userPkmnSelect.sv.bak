@@ -1,0 +1,3 @@
+module userPkmnSelect(input logic [1:0] chosenPokemon,
+							 input logic enable,
+							 )                                                                                                                                                                                                                                                      

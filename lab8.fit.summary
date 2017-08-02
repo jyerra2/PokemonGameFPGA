@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue May 02 23:35:32 2017
+Quartus II 64-Bit Version : 15.0.0 Build 145 04/22/2015 SJ Web Edition
+Revision Name : lab8
+Top-level Entity Name : lab8
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 8,889 / 114,480 ( 8 % )
+    Total combinational functions : 8,249 / 114,480 ( 7 % )
+    Dedicated logic registers : 2,198 / 114,480 ( 2 % )
+Total registers : 2317
+Total pins : 213 / 529 ( 40 % )
+Total virtual pins : 0
+Total memory bits : 11,392 / 3,981,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

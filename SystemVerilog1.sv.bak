@@ -1,0 +1,19 @@
+module gameState(    input logic pokemon_chosen,
+											trainer_chosen,
+											battle_bit,
+											pokemon_faint,
+											output logic [2:0] colorControlBits,
+											)
+											
+											
+											
+											init_state_controller i0();
+											
+											map_state_controller m0();
+											
+											battle_state_controller b0();
+											
+											
+											
+											enum logic[1:0] { INIT_STATE, MAP_STATE, BATTLE_STATE, TEXT_STATE};
+											

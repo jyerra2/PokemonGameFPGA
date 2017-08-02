@@ -1,0 +1,4 @@
+module spriteTable(input [7:0] Sprite,
+						 input logic [9:0] DrawX, DrawY,
+						 output logic [7:0] color
+										);

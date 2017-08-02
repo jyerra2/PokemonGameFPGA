@@ -1,0 +1,12 @@
+module calc_hp(input [3:0] logic attack_poke1,
+					                  defense_poke2,
+					input [5:0] logic hp_in,
+					input [2:0] typePokemon1,
+				   input [2:0]	typePokemon2, 
+				   output [5:0] logic hp_out	);
+					
+					
+			      always_comb
+					begin
+					
+					

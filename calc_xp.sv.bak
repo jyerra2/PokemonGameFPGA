@@ -1,0 +1,6 @@
+module calc_xp(input logic [7:0] xp_prev,
+					input logic [4:0] other_pkmn_id,
+					input logic [4:0] other_pkmn_level,
+					input logic pkmn_faint,
+					output logic xp_new
+					)

@@ -1,0 +1,2 @@
+module hp_mux(input [5:0] logic hp_prev, hp_new,
+				  output [5:0] logic hp_to_pkmnreg);

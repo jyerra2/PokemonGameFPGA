@@ -1,0 +1,4 @@
+module poke_battle( input [3:0] logic level_poke1, level_poke2,
+						  input [4:0] logic poke1_id, poke2_id,
+						  output logic battle_done);
+						  

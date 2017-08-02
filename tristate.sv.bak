@@ -1,0 +1,4 @@
+module tristate(input logic Clk,
+					             tristate_output_enable,
+				    output logic Data_read,
+					 inout wire [15:0] Data);

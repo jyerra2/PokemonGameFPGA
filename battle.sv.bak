@@ -1,0 +1,9 @@
+module battle(input Reset, input Clk,
+				  input logic [7:0] keycode,
+				  
+				  
+				  
+				  );
+				  
+				  
+				  

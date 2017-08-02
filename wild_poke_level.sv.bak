@@ -1,0 +1,2 @@
+module wild_poke_level(input logic [1:0] curr_map,
+							  output logic [3:0] level	);  
